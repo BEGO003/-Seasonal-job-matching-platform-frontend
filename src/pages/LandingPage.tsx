@@ -583,7 +583,7 @@ export default function LandingPage() {
                 </p>
 
                 <motion.a
-                  href="#"
+                  href="https://github.com/Seasonal-job-matching-platform/Seasonal-job-matching-platform-mobile-app/releases/download/v25/app-release.apk"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.98 }}
                   className="inline-flex items-center gap-3 px-8 py-4 rounded-full text-lg font-semibold text-white bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 shadow-xl shadow-purple-600/40 transition-shadow duration-300 hover:shadow-purple-500/60"
