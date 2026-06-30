@@ -594,7 +594,7 @@ export default function LandingPage() {
                 </motion.a>
 
                 <p className="text-xs text-slate-500 mt-4">
-                  Android 8.0+ required • v1.0
+                  Version 1.1.0
                 </p>
               </div>
             </div>
